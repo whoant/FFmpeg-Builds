@@ -25,9 +25,9 @@ jobs:
 #          - target: win64
 #            variant: gpl
 #            quickbuild: ''
-          - target: linux64
-            variant: gpl
-            quickbuild: ''
+#          - target: linux64
+#            variant: gpl
+#            quickbuild: ''
 #          - target: linuxarm64
 #            variant: gpl
 #            quickbuild: ''
