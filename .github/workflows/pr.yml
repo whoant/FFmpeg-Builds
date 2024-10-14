@@ -21,7 +21,7 @@ jobs:
         target: [linux64]
         variant: [gpl 6.1]
         quickbuild: [1]
-        include:
+#        include:
 #          - target: win64
 #            variant: gpl
 #            quickbuild: ''
