@@ -20,7 +20,7 @@ jobs:
       matrix:
         target: [linux64]
         variant: [gpl 6.1]
-        quickbuild: [1]
+        quickbuild: ''
 #        include:
 #          - target: win64
 #            variant: gpl
